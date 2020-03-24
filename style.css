@@ -17,10 +17,14 @@ input,select{vertical-align:middle}
 body,html {
     background-color: #000;
     line-height: 2;
-    padding: 35px 140px 50px;
 }
 p {
     padding-bottom: 20px;
+}
+div.dialogue{
+margin-left:140px;
+margin-right:140px;
+
 }
 header {
     background: #AEC6CF;
@@ -91,11 +95,7 @@ footer p {
 address {
     padding: 10px 20px 30px 10px;
 }
-aside > div {
-	margin: 10px auto;
-	background: #AEC6CF;
-	min-height: 100px;
-}
+
 #logo {
     display: inline-block;
     vertical-align: middle;
