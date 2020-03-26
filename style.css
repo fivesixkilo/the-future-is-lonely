@@ -17,6 +17,13 @@ input,select{vertical-align:middle}
 body,html {
     background-color: #000;
     line-height: 2;
+    
+}
+
+body{
+    padding-top:200px;
+    padding-bottom:200px;
+
 }
 p {
     padding-bottom: 45px;
